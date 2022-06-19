@@ -7,3 +7,4 @@ else
 	scp -P 4242 level00@$1:/etc/passwd .
 	/usr/sbin/john ./passwd --show
 fi
+
