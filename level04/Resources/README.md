@@ -1,4 +1,4 @@
-# FLAG04
+# Flag 04
 
 In the level04 home directory we found a perl script and the same script in the `/var/www/level04/`.
 ```

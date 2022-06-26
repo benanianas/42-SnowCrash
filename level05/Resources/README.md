@@ -1,4 +1,4 @@
-# FLAG05
+# Flag 05
 
 After connecting to the level05 we got a message
 

@@ -1,4 +1,4 @@
-# FLAG01
+# Flag 01
 
 The flag 01 was the first flag we found, after a quick google search on how to crack linux users passwords we found out about john the ripper
 

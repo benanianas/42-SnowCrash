@@ -1,4 +1,4 @@
-# FLAG02
+# Flag 02
 
 After connecting width user level02, we found a file in the level02 home directory 
 

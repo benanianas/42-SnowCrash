@@ -1,4 +1,4 @@
-# FLAG03
+# Flag 03
 
 In the level03 home directory we found a binary file `level03` owned by flag03 we executed the binary and it printed `Exploit me`
 

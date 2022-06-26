@@ -1,4 +1,4 @@
-# FLAG00
+# Flag 00
 After watching the video in the Intra we noticed that in level00 they have a readme file that don't exist in our VM, the file contains a small sentence.
 
 ```
