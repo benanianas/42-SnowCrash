@@ -1,6 +1,6 @@
 #FLAG09
 
-Again in the level09 we found two file a binary and a token file exepct this time we have the read permission over the token file
+Again in the level09 we found two file a binary and a token file except this time we have the read permission over the token file
 ```
 level09@SnowCrash:~$ ls -l
 total 12

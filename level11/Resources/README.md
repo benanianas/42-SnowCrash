@@ -1,8 +1,3 @@
-nc 127.0.0.1 5151
-
-prompt password : $(getflag > /tmp/flag11)
-
-flag => fa6v5ateaw21peobuub8ipe6s
 # Flag 11
 
 In level11 home directory we have a lua script after running it we got the error:
